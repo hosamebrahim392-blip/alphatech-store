@@ -1,0 +1,1 @@
+User-agent: *\nAllow: /\nSitemap: https://hosamebrahim392-blip.github.io/alphatech-store/sitemap.xml\n\nUser-agent: Googlebot\nAllow: /\n\nUser-agent: Bingbot\nAllow: /\n
